@@ -8,4 +8,4 @@ services:
   title-normalizer:
     build: services/title-normalizer
     ports:
-      - "5001:5001"p
+      - "5001:5001"
